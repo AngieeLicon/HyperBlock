@@ -1,11 +1,7 @@
-<<<<<<< HEAD
+
 # HyperBlock
 Un block increible 
 
-Creado por la increible Angie
-Incluye ejemplos de todo tipo
-Disponible para todas las edades
->>>>>>> readme-mejorado
 =======
 ### Learning with love
 
@@ -23,4 +19,4 @@ Disponible para todas las edades
 
 
 # Thanks
->>>>>>> 98ba6e3c8a7458f3bb54f6703ad2df8f2ab7a673
+
