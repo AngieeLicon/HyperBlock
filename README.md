@@ -2,7 +2,6 @@
 # HyperBlock
 Un block increible 
 
-=======
 ### Learning with love
 
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuNirLaOeh3PlwyMcWV9Qzy6Ej7a9-Nopd1g&usqp=CAU)
