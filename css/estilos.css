@@ -50,3 +50,9 @@ body
     background: white;
     padding: 1em;
 }
+
+#pie
+{
+    text-align: center;
+    color: antiquewhite;
+}
